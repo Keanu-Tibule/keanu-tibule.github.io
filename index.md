@@ -63,7 +63,7 @@ layout: default
             <img src="SVGs/python.svg" alt="Python Logo" style= "width: 80px; height: auto;">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/unreal-engine.svg" alt="UE5 Logo" style= "width: 80px; height: auto; border: 1px solid white;">
+            <img src="SVGs/unreal-engine.svg" alt="UE5 Logo" style= "width: 80px; height: auto;">
         </div>
     </div>
     <div class = "image-container">
