@@ -4,7 +4,7 @@ css:
   - styles.css
 ---
 
-<body style = "background-color: black; color: white;">
+<body>
     <div style = "border: 4px solid white; padding: 20px;">
         <p style = "color: white; text-align: center;"> Need a Programmer? </p>
         <p style = "text align: center;">
