@@ -24,6 +24,9 @@ layout: default
         justify-content: center;
         align-items: center;
     }
+    .img {
+        background-color: transparent;
+    }
     .image-wrapper {
         margin: 20px;
         padding: 10px;
@@ -33,7 +36,6 @@ layout: default
         height: auto;
         display: block;
         margin: 0 auto;
-        background-color: transparent;
     }
     .image-container {
         display: flex;
