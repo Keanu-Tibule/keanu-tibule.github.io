@@ -77,7 +77,7 @@ layout: default
             <img src="SVGs/mysql-logo.svg" alt="MySQL Logo" style= "width: 80px; height: auto; background-color: transparent;">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/unity.svg" alt="Unity Logo" style= "width: 80px; height: auto; background-color: transparent;">
+            <img src="SVGs/unitywhite.svg" alt="Unity Logo" style= "width: 80px; height: auto; background-color: transparent;">
         </div>
     </div>
 </div>
