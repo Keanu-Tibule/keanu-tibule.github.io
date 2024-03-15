@@ -54,5 +54,14 @@ layout: default
         <div class = "image-wrapper">
             <img src="SVGs/c++.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
         </div>
+        <div class = "image-wrapper">
+            <img src="SVGs/java.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
+        </div>
+        <div class = "image-wrapper">
+            <img src="SVGs/python.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
+        </div>
+        <div class = "image-wrapper">
+            <img src="SVGs/unreal-engine.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
+        </div>
     </div>
 </div>
