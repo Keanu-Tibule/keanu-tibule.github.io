@@ -31,7 +31,7 @@ layout: default
     .image-wrapper img {
         width: 100px;
         height: 100px;
-        background-color: white;
+        background-color: transparent;
     }
     .image-container {
         display: flex;
@@ -48,33 +48,33 @@ layout: default
     </p>
     <div class = "image-container">
         <div class = "image-wrapper">
-            <img src="SVGs/c%23.svg" alt="C# Logo" style= "width: 100px; height: 100px; background-color: transparent;">
+            <img src="SVGs/c%23.svg" alt="C# Logo">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/c++.svg" alt="C++ Logo" style= "width: 100px; height: 100px; background-color: transparent;">
+            <img src="SVGs/c++.svg" alt="C++ Logo">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/java.svg" alt="Java Logo" style= "width: 100px; height: 100px; background-color: transparent;">
+            <img src="SVGs/java.svg" alt="Java Logo">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/python.svg" alt="Python Logo" style= "width: 100px; height: 100px; background-color: transparent;">
+            <img src="SVGs/python.svg" alt="Python Logo">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/ue5.svg" alt="UE5 Logo" style= "width: 100px; height: 100px; background-color: transparent;">
+            <img src="SVGs/ue5.svg" alt="UE5 Logo">
         </div>
     </div>
     <div class = "image-container">
         <div class = "image-wrapper">
-            <img src="SVGs/html.svg" alt="HTML Logo" style= "width: 80px; height: auto; background-color: transparent;">
+            <img src="SVGs/html.svg" alt="HTML Logo">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/css-3.svg" alt="CSS Logo" style= "width: 80px; height: auto; background-color: transparent;">
+            <img src="SVGs/css-3.svg" alt="CSS Logo">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/javascript.svg" alt="JS Logo" style= "width: 80px; height: auto; background-color: transparent;">
+            <img src="SVGs/javascript.svg" alt="JS Logo">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/mysql-logo.svg" alt="MySQL Logo" style= "width: 80px; height: auto; background-color: transparent;">
+            <img src="SVGs/mysql-logo.svg" alt="MySQL Logo">
         </div>
         <div class = "image-wrapper">
             <img src="SVGs/unitywhite.svg" alt="Unity Logo">
