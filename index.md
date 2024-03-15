@@ -26,7 +26,6 @@ layout: default
     }
     .image-wrapper {
         margin: 20px;
-        background-color: transparent;
         padding: 10px;
     }
     .image-wrapper img {
@@ -34,6 +33,7 @@ layout: default
         height: auto;
         display: block;
         margin: 0 auto;
+        background-color: transparent;
     }
     .image-container {
         display: flex;
