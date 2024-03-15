@@ -25,7 +25,7 @@ layout: default
         align-items: center;
     }
     .img {
-        background-color: black;
+        background-color: transparent;
     }
     .image-wrapper {
         margin: 20px;
@@ -51,7 +51,7 @@ layout: default
     </p>
     <div class = "image-container">
         <div class = "image-wrapper">
-            <img src="SVGs/c%23.svg" alt="C# Logo" style= "width: 80px; height: auto;">
+            <img src="SVGs/c%23.svg" alt="C# Logo" style= "width: 80px; height: auto; background-color: transparent;">
         </div>
         <div class = "image-wrapper">
             <img src="SVGs/c++.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
