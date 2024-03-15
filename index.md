@@ -57,30 +57,30 @@ layout: default
             <img src="SVGs/c++.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/java.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
+            <img src="SVGs/java.svg" alt="Java Logo" style= "width: 80px; height: auto;">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/python.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
+            <img src="SVGs/python.svg" alt="Python Logo" style= "width: 80px; height: auto;">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/unreal-engine.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
+            <img src="SVGs/unreal-engine.svg" alt="UE5 Logo" style= "width: 80px; height: auto; border: 1px solid white;">
         </div>
     </div>
     <div class = "image-container">
         <div class = "image-wrapper">
-            <img src="SVGs/html.svg" alt="C# Logo" style= "width: 80px; height: auto;">
+            <img src="SVGs/html.svg" alt="HTML Logo" style= "width: 80px; height: auto;">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/css-3.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
+            <img src="SVGs/css-3.svg" alt="CSS Logo" style= "width: 80px; height: auto;">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/javascript.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
+            <img src="SVGs/javascript.svg" alt="JS Logo" style= "width: 80px; height: auto;">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/mysql-logo.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
+            <img src="SVGs/mysql-logo.svg" alt="MySQL Logo" style= "width: 80px; height: auto;">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/unity.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
+            <img src="SVGs/unity.svg" alt="Unity Logo" style= "width: 80px; height: auto;">
         </div>
     </div>
 </div>
