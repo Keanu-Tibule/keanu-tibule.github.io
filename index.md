@@ -19,7 +19,7 @@ layout: default
 </style>
 
 <div class = "container">
-    <p> Need a Programmer? </p>
+    <p style = "color: white; font-size: 48px; "><strong> Need a Programmer? </strong></p>
     <p>
         <a href = "https://www.linkedin.com/in/keanu-dane-tibule-4b4009281" style = "color: black; display: block; margin: 0 auto; width: fit-content; background-color: white; padding: 10px 20px; text-decoration: none; border: 1px solid white; border-radius: 5px;"> Click Here! </a>
     </p>
