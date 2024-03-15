@@ -11,12 +11,12 @@ layout: default
         margin: 0;
     }
     .container {
-        border: 20px solid white;
+        border: 4px solid white;
         padding: 20px;
         text-align: center;
         margin: 20px;
-        max-width: calc(80vw - 40px);
-        max-height: calc(80vh - 40px);
+        width: calc(80vw - 40px);
+        height: calc(80vh - 40px);
     }
 </style>
 
