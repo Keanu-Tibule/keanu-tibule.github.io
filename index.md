@@ -35,6 +35,11 @@ layout: default
         display: block;
         margin: 0 auto;
     }
+    .image-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
 </style>
 
 <div class = "container">
@@ -42,10 +47,12 @@ layout: default
     <p>
         <a href = "https://www.linkedin.com/in/keanu-dane-tibule-4b4009281" target="_blank" style = "color: black; display: block; margin: 0 auto; width: fit-content; background-color: white; padding: 10px 20px; text-decoration: none; border: 1px solid white; border-radius: 5px;"><strong> Click Here! </strong></a>
     </p>
+    <div class = image-container>
         <div class = "image-wrapper">
             <img src="SVGs/c%23.svg" alt="C# Logo" style= "width: 80px; height: auto;">
         </div>
         <div class = "image-wrapper">
             <img src="SVGs/c++.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
         </div>
+    </div>
 </div>
