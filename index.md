@@ -5,22 +5,19 @@ layout: default
 <style>
     body {
         height: 100vh;
-        margin: 20vh;
         display: flex;
         justify-content: center;
         align-items: center;
         background-color: black;
+        margin: 0;
     }
     .container {
         border: 4px solid white;
         padding: 20px;
         text-align: center;
         position: absolute;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
         margin: auto;
+        max-width: 80%;
     }
 </style>
 
