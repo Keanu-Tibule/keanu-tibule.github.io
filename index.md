@@ -39,12 +39,6 @@ layout: default
         flex-wrap: wrap;
         justify-content: center;
     }
-    .img {
-        background-color: transparent;
-    }
-    img[src*= "unreal-engine.svg"] svg {
-        fill: white;
-    }
 </style>
 
 <div class = "container">
@@ -66,7 +60,7 @@ layout: default
             <img src="SVGs/python.svg" alt="Python Logo" style= "width: 80px; height: auto; background-color: transparent;">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/unreal-engine.svg" alt="UE5 Logo" style= "width: 80px; height: auto; background-color: transparent;">
+            <img src="SVGs/ue5.svg" alt="UE5 Logo" style= "width: 80px; height: auto; background-color: transparent;">
         </div>
     </div>
     <div class = "image-container">
