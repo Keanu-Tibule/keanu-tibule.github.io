@@ -80,4 +80,6 @@ layout: default
             <img src="SVGs/unitywhite.svg" alt="Unity Logo">
         </div>
     </div>
+    <a href="mailto:keanudane@yahoo.com" style = "color: white;"><strong> keanudane@yahoo.com </strong></a>
+    <a href="tel:+639691573459" style = "color: white;"><strong> +63 969 157 3459 </strong></a>
 </div>
