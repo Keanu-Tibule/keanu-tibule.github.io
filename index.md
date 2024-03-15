@@ -4,9 +4,8 @@ layout: default
 
 <style>
     body {
-        height: 80vh;
-        width: 80vh;
-        margin: 0;
+        height: 100vh;
+        margin: 20vh;
         display: flex;
         justify-content: center;
         align-items: center;
