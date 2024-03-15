@@ -40,7 +40,9 @@ layout: default
         justify-content: center;
     }
     img {
-        
+        width: 100px;
+        height: 100px;
+        background-color: transparent;
     }
 </style>
 
