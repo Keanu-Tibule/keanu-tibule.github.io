@@ -9,14 +9,20 @@ layout: default
         align-items: center;
         background-color: black;
         margin: 0;
+        height: 100vh;
+        width: 100vw;
     }
     .container {
         border: 4px solid white;
         padding: 20px;
         text-align: center;
         margin: 20px auto;
-        width: calc(100vw - 40px);
-        height: calc(100vh - 40px);
+        max-width: calc(80vw - 40px);
+        max-height: calc(80vh - 40px);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 </style>
 
