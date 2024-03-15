@@ -48,19 +48,19 @@ layout: default
     </p>
     <div class = "image-container">
         <div class = "image-wrapper">
-            <img src="SVGs/c%23.svg" alt="C# Logo" style= "width: 80px; height: auto; background-color: transparent;">
+            <img src="SVGs/c%23.svg" alt="C# Logo" style= "width: 100px; height: 100px; background-color: transparent;">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/c++.svg" alt="C++ Logo" style= "width: 80px; height: auto; background-color: transparent;">
+            <img src="SVGs/c++.svg" alt="C++ Logo" style= "width: 100px; height: 100px; background-color: transparent;">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/java.svg" alt="Java Logo" style= "width: 80px; height: auto; background-color: transparent;">
+            <img src="SVGs/java.svg" alt="Java Logo" style= "width: 100px; height: 100px; background-color: transparent;">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/python.svg" alt="Python Logo" style= "width: 80px; height: auto; background-color: transparent;">
+            <img src="SVGs/python.svg" alt="Python Logo" style= "width: 100px; height: 100px; background-color: transparent;">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/ue5.svg" alt="UE5 Logo" style= "width: 80px; height: auto; background-color: transparent;">
+            <img src="SVGs/ue5.svg" alt="UE5 Logo" style= "width: 100px; height: 100px; background-color: transparent;">
         </div>
     </div>
     <div class = "image-container">
