@@ -3,8 +3,8 @@ layout: default
 ---
 
 <style>
-    body, html {
-        height: 100%;
+    body {
+        height: 100vh;
         margin: 0;
         display: flex;
         justify-content: center;
@@ -15,6 +15,12 @@ layout: default
         border: 4px solid white;
         padding: 20px;
         text-align: center;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
     }
 </style>
 
