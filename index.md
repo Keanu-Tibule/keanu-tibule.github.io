@@ -64,4 +64,21 @@ layout: default
             <img src="SVGs/unreal-engine.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
         </div>
     </div>
+    <div class = "image-container">
+        <div class = "image-wrapper">
+            <img src="SVGs/html.svg" alt="C# Logo" style= "width: 80px; height: auto;">
+        </div>
+        <div class = "image-wrapper">
+            <img src="SVGs/css-3.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
+        </div>
+        <div class = "image-wrapper">
+            <img src="SVGs/javascript.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
+        </div>
+        <div class = "image-wrapper">
+            <img src="SVGs/mysql-logo.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
+        </div>
+        <div class = "image-wrapper">
+            <img src="SVGs/unity.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
+        </div>
+    </div>
 </div>
