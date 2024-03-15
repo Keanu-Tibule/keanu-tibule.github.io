@@ -39,6 +39,9 @@ layout: default
         flex-wrap: wrap;
         justify-content: center;
     }
+    img {
+        border: 1px solid white;
+    }
 </style>
 
 <div class = "container">
