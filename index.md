@@ -16,7 +16,8 @@ layout: default
         padding: 20px;
         text-align: center;
         margin: auto;
-        max-width: calc(80vw - 40px);
+        max-width: 80vw;
+        max-height: 80vh;
     }
 </style>
 
