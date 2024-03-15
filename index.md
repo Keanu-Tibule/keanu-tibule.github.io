@@ -14,7 +14,7 @@ layout: default
         border: 4px solid white;
         padding: 20px;
         text-align: center;
-        margin: 20px;
+        margin: 20px auto;
         width: calc(80vw - 40px);
         height: calc(80vh - 40px);
     }
