@@ -15,7 +15,6 @@ layout: default
         border: 4px solid white;
         padding: 20px;
         text-align: center;
-        position: absolute;
         margin: auto;
         max-width: 80%;
     }
