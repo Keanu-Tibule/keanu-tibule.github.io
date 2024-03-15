@@ -49,7 +49,7 @@ layout: default
     </p>
     <div class = "image-container">
         <div class = "image-wrapper">
-            <img src="SVGs/c%23.svg" alt="C# Logo" style= "width: 80px; height: auto;">
+            <img src="SVGs/c%23.svg" alt="C# Logo" style= "width: 80px; height: auto; background-color: transparent;">
         </div>
         <div class = "image-wrapper">
             <img src="SVGs/c++.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
