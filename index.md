@@ -24,9 +24,6 @@ layout: default
         justify-content: center;
         align-items: center;
     }
-    .img {
-        background-color: transparent;
-    }
     .image-wrapper {
         margin: 20px;
         padding: 10px;
@@ -42,6 +39,9 @@ layout: default
         flex-wrap: wrap;
         justify-content: center;
     }
+    .img {
+        background-color: transparent;
+    }
 </style>
 
 <div class = "container">
@@ -54,7 +54,7 @@ layout: default
             <img src="SVGs/c%23.svg" alt="C# Logo" style= "width: 80px; height: auto; background-color: transparent;">
         </div>
         <div class = "image-wrapper">
-            <img src="SVGs/c++.svg" alt="C++ Logo" style= "width: 80px; height: auto;">
+            <img src="SVGs/c++.svg" alt="C++ Logo" style= "width: 80px; height: auto; background-color: transparent;">
         </div>
         <div class = "image-wrapper">
             <img src="SVGs/java.svg" alt="Java Logo" style= "width: 80px; height: auto;">
