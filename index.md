@@ -25,7 +25,7 @@ layout: default
         align-items: center;
     }
     .img {
-        background-color: transparent;
+        background-color: black;
     }
     .image-wrapper {
         margin: 20px;
